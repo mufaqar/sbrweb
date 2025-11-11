@@ -1,0 +1,139 @@
+# Copyright (C) 2025 WpEstate
+# This file is distributed under the same license as the WpRentals Elementor Widgets plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WpRentals Elementor Widgets 3.13.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wprentals-elementor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-27T13:54:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: residence-elementor\n"
+
+#. Plugin Name of the plugin
+#: C:\Users\anama\Local Sites\wprentals-local\app\public\wp-content\plugins\wprentals-elementor\wprentals-elementor.php
+msgid "WpRentals Elementor Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: C:\Users\anama\Local Sites\wprentals-local\app\public\wp-content\plugins\wprentals-elementor\wprentals-elementor.php
+msgid "https://wpestate.org/"
+msgstr ""
+
+#. Description of the plugin
+#: C:\Users\anama\Local Sites\wprentals-local\app\public\wp-content\plugins\wprentals-elementor\wprentals-elementor.php
+msgid "Elementor widgets for WpRentals"
+msgstr ""
+
+#. Author of the plugin
+#: C:\Users\anama\Local Sites\wprentals-local\app\public\wp-content\plugins\wprentals-elementor\wprentals-elementor.php
+msgid "WpEstate"
+msgstr ""
+
+#: widgets/advanced-search.php:131
+#: widgets/advanced-search.php:139
+#: widgets/availability-calendar.php:215
+#: widgets/availability-calendar.php:223
+#: widgets/booking-form.php:192
+#: widgets/booking-form.php:200
+#: widgets/featured-article.php:276
+#: widgets/featured-article.php:283
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/advanced-search.php:156
+#: widgets/availability-calendar.php:241
+#: widgets/booking-form.php:218
+msgid "Colors"
+msgstr ""
+
+#: widgets/advanced-search.php:164
+#: widgets/availability-calendar.php:249
+#: widgets/booking-form.php:226
+msgid "Background Color"
+msgstr ""
+
+#: widgets/advanced-search.php:177
+msgid "Border Color"
+msgstr ""
+
+#: widgets/advanced-search.php:188
+msgid "Border Width"
+msgstr ""
+
+#: widgets/advanced-search.php:200
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/advanced-search.php:213
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/advanced-search.php:226
+#: widgets/advanced-search.php:250
+msgid "Button  Color"
+msgstr ""
+
+#: widgets/advanced-search.php:238
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: widgets/advanced-search.php:269
+#: widgets/availability-calendar.php:272
+#: widgets/booking-form.php:245
+#: widgets/featured-article.php:144
+msgid "Typography"
+msgstr ""
+
+#: widgets/advanced-search.php:278
+#: widgets/booking-form.php:254
+msgid "Property Title"
+msgstr ""
+
+#: widgets/availability-calendar.php:129
+msgid "Hide Title"
+msgstr ""
+
+#: widgets/availability-calendar.php:131
+#: widgets/booking-form.php:138
+#: widgets/booking-form.php:153
+#: widgets/testimonial_slider.php:177
+msgid "Yes"
+msgstr ""
+
+#: widgets/availability-calendar.php:132
+#: widgets/booking-form.php:139
+#: widgets/booking-form.php:154
+#: widgets/testimonial_slider.php:178
+msgid "No"
+msgstr ""
+
+#: widgets/availability-calendar.php:152
+#: widgets/booking-form.php:168
+msgid "Style"
+msgstr ""
+
+#: widgets/availability-calendar.php:281
+msgid "Section Title"
+msgstr ""
+
+#: widgets/booking-form.php:128
+msgid "Show/Hide Data"
+msgstr ""
+
+#: widgets/booking-form.php:136
+msgid "Hide Favorites & Contact section"
+msgstr ""
+
+#: widgets/booking-form.php:151
+msgid "Hide Social section"
+msgstr ""
+
+#: widgets/testimonial_slider.php:175
+msgid "Hide image?"
+msgstr ""
